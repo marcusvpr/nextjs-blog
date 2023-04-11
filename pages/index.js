@@ -33,7 +33,6 @@ export default function Home({ allPostsData }) {
         <p>
           <h2>
                 <Link href="/posts/first-post">FirstPost</Link><br/>
-                <Link href="/posts/ssg-ssr">ssg-ssr Post</Link><br/>
                 <Link href="/posts/pre-rendering">pre-rendering</Link><br/>
           </h2>
         </p>
